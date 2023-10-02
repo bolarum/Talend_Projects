@@ -1,4 +1,5 @@
+APPEND_FOLDER_TO_GROUPID=true
 PROJECT_GROUPID=org.example.cloud_talend_jobs
-PROJECT_VERSION=8.0.1
+PROJECT_VERSION=1.0.0
 SKIP_LOOP_DEPENDENCY_CHECK=true
 eclipse.preferences.version=1
